@@ -5,7 +5,7 @@ To visit Scenario based questions :-
 
 Git
 
-Linux 🐧
+Linux 
 
 Docker
 
